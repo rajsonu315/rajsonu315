@@ -17,7 +17,7 @@ System Design, Backend Optimization & Scalable Applications
 JavaScript, Web Development, APIs, Freelancing & Project Building
 
 📫 **How to reach me:**  
-Email: yourmail@gmail.com  
+Email: rs2420315@gmail.com  
 LinkedIn: linkedin.com/in/yourprofile
 
 ⚡ **Fun fact:**  
