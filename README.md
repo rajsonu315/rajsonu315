@@ -18,7 +18,7 @@ JavaScript, Web Development, APIs, Freelancing & Project Building
 
 📫 **How to reach me:**  
 Email: rs2420315@gmail.com  
-LinkedIn: linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/purushottam-kumar-5111b1160/
 
 ⚡ **Fun fact:**  
 I love solving complex problems and turning ideas into scalable products 🚀
